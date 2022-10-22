@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  wsEndpoint: 'ws://topcamwss.herokuapp.com/',
+  wsEndpoint: 'wss://topcamwss.herokuapp.com/',
   RTCPeerConfiguration: {
     username: "3e1a4ec9ff39a03d5093c5fffe230c35a0c9eea8a2b4e5b092f38b6c2784ddf2",
     iceServers: [
